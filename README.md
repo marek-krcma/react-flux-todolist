@@ -10,14 +10,16 @@ I was studying ReactJS and Flux technologies.
 The application is divided into several parts based on Flux concept:
 components - actions - dispatcher - store
 
+Store provides data model and data manipulation activities.
+
 The file naming corresponds Flux structure. ReactJS state is always lifting up to the closest
 ancestor.
 
-## Development packeges
+## Development packages
 Application is built on webpack dev server. There is used objectassign package, 
 css-loader and extract-text-webpack-plugin, ReactJS ecosystem.
 
-## ToDo functionality
+## Functionalities which are under development
 - extended list attributes
 - modal window
 - tagging functionality
