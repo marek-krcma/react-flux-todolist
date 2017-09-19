@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+/*
+    Component provides new item functionality.
+*/
 export class AddIssue extends React.Component {
   constructor(props){
         super(props);
